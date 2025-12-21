@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is discontinued. Roblox has switched to font-based icon sets, making this image-based mod updater useless.
+
 # sober-mod-updater
 Update your Roblox mods
 
